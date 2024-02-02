@@ -1,11 +1,11 @@
 [
   {
     "kernelSource": {
-      "name": "Xiaomi4",
-      "repo": "https://github.com/SonicBSV/android_kernel_xiaomi_markw-4.9",
-      "branch": "master",
-      "device": "markw",
-      "defconfig": "markw_defconfig"
+      "name": "vegds-MI10",
+      "repo": "https://github.com/vegds/InfiniR_kernel_ucmi_NetHunter",
+      "branch": "14.0-umi",
+      "device": "ucmi",
+      "defconfig": "ucmi_nethunter_defconfig"
     },
     "toolchains": [
       {
@@ -59,7 +59,7 @@
       "use": true,
       "release": true
     },
-    "enableKernelSU": true,
+    "enableKernelSU": false,
     "enableLXC": true
   }
 ]
