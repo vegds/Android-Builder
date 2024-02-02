@@ -4,7 +4,7 @@
       "name": "vegds-MI10",
       "repo": "https://github.com/vegds/InfiniR_kernel_ucmi_NetHunter",
       "branch": "14.0-umi",
-      "device": "ucmi",
+      "device": "umi",
       "defconfig": "ucmi_nethunter_defconfig"
     },
     "toolchains": [
