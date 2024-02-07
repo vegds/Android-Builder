@@ -2,8 +2,8 @@
   {
     "kernelSource": {
       "name": "vegds-MI10",
-      "repo": "https://github.com/vegds/InfiniR_kernel_ucmi_NetHunter",
-      "branch": "14.0-umi",
+      "repo": "https://github.com/tequilaOS/platform_hardware_xiaomi",
+      "branch": "uno",
       "device": "umi",
       "defconfig": "ucmi_nethunter_defconfig"
     },
@@ -36,7 +36,7 @@
           "branch": "kona"
         }
     },
-    "enableKernelSU": true,
+    "enableKernelSU": false,
     "enableLXC": true
   }
 ]
